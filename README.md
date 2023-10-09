@@ -6,7 +6,7 @@ Ce sont des recettes authentiques, c'est une italienne qui le garantit!
 ### Pasta alla carbonara (pâtes carbonara)
 Les pâtes carbonara sont typiques de la ville de Rome, la capitale de l'Italie. Il y a plusieurs hypothèses qui cherchent à trouver la vrai histoire, mais aucune n'a était confirmée. 
 
-
+![carbonara!](/immagini_markdown/carbonara.png)
 
 #### Ingrédients
 - 100 gr de pâtes par personne (souvent des gros spaghettis)
