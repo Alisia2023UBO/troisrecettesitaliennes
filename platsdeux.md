@@ -31,6 +31,5 @@ Cacao              |  250 gr de savoiardi
 10. Ajoutez après la crème au mascarpon et continuez avec les biscuits pour faire deux couches
 11. Quand le tiramisù est complet, ajoutez du cacao.
 
-[Retour à la page principale](README.md)
-
+[Retour à la page d'accueil](README.md)
 [Pasta al pesto](pesto.md)
