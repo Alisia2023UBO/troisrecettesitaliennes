@@ -8,7 +8,7 @@ En plus, j'ai choisi de vous présenter quelques recettes typique de ma région,
 Ce sont des recettes **authentiques**, c'est une italienne qui le garantit!
 
 Dans la liste suivante, vous trouverez une liste de plats proposés, pour choisir lequel vous préférez. 
-- [Pasta alla carbonara](
+- [Pasta alla carbonara](pastacarbonara.md)
 - [Tiramisù](platsdeux.md)
 
 
