@@ -19,6 +19,14 @@ recette avec son mari en y ajoutant des biscuits à la cuillère, du café et du
 300 gr de café     |  5 oeufs           
 Cacao              |  250 gr de savoiardi
 
+#### Préparation
+1. Préparez les 300 gr de café dans une _moka_ et laissez refroidir
+2. Divisez très **attentivement** les blancs d'oeufs des jaunes
+3. Montez les jaunes d’œufs avec des fouets électriques, en versant seulement la moitié du sucre
+4. Dès que le mélange est devenu clair et mousseux, et avec les fouets encore en fonction, vous pouvez ajouter lentement le mascarpone
+5. Nettoyez très bien les fouets et passez à fouetter les blancs d’œufs. Quand ils seront mousseux, versez le reste du sucre
+6. 
+
 
 
 
