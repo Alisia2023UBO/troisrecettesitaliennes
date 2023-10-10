@@ -20,4 +20,5 @@ Le premier plat qui me vient à l'esprit est peut-être, l'un des plus connus de
 7. Unissez les pâtes avec les jaunes d'oeufs et le guanciale
 8. Si nécessaire, vous pouvez ajouter de l'eau de cuisson pour rendre le tout plus crémeux
 
-[Page principale](README.md)                                                                         [Tiramisu](platsdeux.md)
+[Retour à la page principale](README.md)                                                                         
+[Tiramisu](platsdeux.md)
