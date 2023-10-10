@@ -4,6 +4,11 @@ Le deuxième plat que je vais vous présenter est le tiramisù, un dessert itali
 Ce que j'adore particulièrement de ce plat est le nom: litteralement *tiramisu* en italien signifie _fais-moi sentir mieux_.
 Effectivement, il suffit de goûter un petit morceaux de ce dessert pour se sentir mieux et retrouver le bonheur!.
 
+Voilà des mots que ma grand-mère me disait tout le temps:
+>> Il suffit un peu de sucre pour bien commencer la journée
+
+
+
 Les origines du tiramisù remontent surtout aux régions de la Vénétie et du Frioul-Vénétie-Julienne, donc le nord-est de l'Italie. 
 
 #### Ingrédients
