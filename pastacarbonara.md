@@ -22,6 +22,6 @@ ATTENTION! Ne lisez pas si vous n'êtes pas prêts à le savoir: **IL N'Y A PAS 
 7. Unissez les pâtes avec les jaunes d'oeufs et le guanciale
 8. Si nécessaire, vous pouvez ajouter de l'eau de cuisson pour rendre le tout plus crémeux
 
-[Retour à la page principale](README.md) 
+[Retour à la page d'accueil](README.md) 
 
 [Plat suivant: tiramisu](platsdeux.md)
