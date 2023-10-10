@@ -27,7 +27,27 @@ minutes.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### Friselle al pomodoro
+### Friselle au tomates
 
 ![alt text](https://github.com/Alisia2023UBO/troisrecettesitaliennes/blob/main/Friselle-con-pomodorini.jpg)
 
+La frisella, ou freselle, est un produit d'origine apulienne, mais elle est répandue dans toute l'Italie, en particulier dans le sud. Il 
+s'agit de tarallo de blé dur (ou de blé complet ou d'orge) cuit au four, à la texture dure mais parfumée. D'une part, il est plus poreux 
+et donc prédisposé à recevoir l'assaisonnement, d'autre part, il est plus lisse.
+
+#### Ingrédients 
+- friselle
+- 4 tomates
+- sel
+- huile d'olive vierge extra
+- basilic
+
+#### Préparation
+1. Faites tremper les friselles dans de l'eau non chlorée, à température ambiante, le temps que vous souhaitez : quelques secondes à une
+   minute, selon le degré d'humidité souhaité.
+2. Coupez les tomates en gros morceaux et arrosez les friselles trempées d'un filet d'huile d'olive extra vierge.
+3. Disposez les tomates coupées sur la friselle, en ajoutant quelques feuilles de basilic en guise de décoration.
+
+Comme vous voyez, la préparation des _friselles_ est extremement simple et rapide, parfaite pour un déjeuner d'été. 
+
+[Retour à la page d'accueil](README.md)
