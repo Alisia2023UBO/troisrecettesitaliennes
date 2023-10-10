@@ -10,7 +10,7 @@ traditionnel.
 
 #### Ingrédients
 - 1 kg de fanes de navet
-- sel
+- Sel
 - 50 gr de chapelure
 - 30 gr d'huile d'olive vierge extra
 
@@ -23,7 +23,7 @@ plus tard.
 minutes.
 6. Après 5 minutes de cuisson des fanes de navet, ajoutez les pâtes dans la même poêle et poursuivez la cuisson pendant environ 5 minutes.
 7. Remuez délicatement, puis égouttez les pâtes orecchiette et les fanes de navet.
-8. Ajoutez du sel et la chapelure de pain
+8. Ajoutez du sel et la chapelure de pain.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -36,11 +36,11 @@ s'agit de tarallo de blé dur (ou de blé complet ou d'orge) cuit au four, à la
 et donc prédisposé à recevoir l'assaisonnement, d'autre part, il est plus lisse.
 
 #### Ingrédients 
-- friselle
+- Friselles
 - 4 tomates
-- sel
-- huile d'olive vierge extra
-- basilic
+- Sel
+- Huile d'olive vierge extra
+- Basilic
 
 #### Préparation
 1. Faites tremper les friselles dans de l'eau non chlorée, à température ambiante, le temps que vous souhaitez : quelques secondes à une
