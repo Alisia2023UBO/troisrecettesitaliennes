@@ -10,6 +10,5 @@ Ce sont des recettes **authentiques**, c'est une italienne qui le garantit!
 Dans la liste suivante, vous trouverez une liste de plats proposés, pour choisir lequel vous préférez. 
 - [Pasta alla carbonara](pastacarbonara.md)
 - [Tiramisù](platsdeux.md)
-
-
-   
+- [Pasta al pesto](pesto.md)
+- [Recettes des Pouilles](pouilles.md)
