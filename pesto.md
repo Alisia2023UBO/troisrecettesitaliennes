@@ -27,4 +27,4 @@ Voilà la recette complète!
 6. Votre pesto est prêt à être utilisé !
 
 [Retour à la page d'accueil](README.md)
-
+[Recettes des Pouilles](pouilles.md)
