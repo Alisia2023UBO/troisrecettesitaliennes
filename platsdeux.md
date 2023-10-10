@@ -13,11 +13,11 @@ La légende dit que, en préparant une glace, Roberto Linguanotto aurait laissé
 sucre-oeufs. Séduit par ce mélange, il l’aurait ensuite présenté à Alba, l’épouse d’Ado Campeol, qui aurait ensuite perfectionné la 
 recette avec son mari en y ajoutant des biscuits à la cuillère, du café et du cacao.
 
- #Ingrédients             poële de 20 x 30 
---------------------  |  --------------------
-750 gr de mascarpon   |  120 gr de sucre            
-300 gr de café        |  5 oeufs           
-cacao                 |  250 gr de savoiardi
+ Ingrédients       | (Poële de 20 x 30) 
+-------------------|--------------------
+750 gr de mascarpon|  120 gr de sucre            
+300 gr de café     |  5 oeufs           
+Cacao              |  250 gr de savoiardi
 
 
 
