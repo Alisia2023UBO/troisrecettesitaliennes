@@ -34,4 +34,5 @@ Cacao              |  250 gr de savoiardi
 11. Quand le tiramisù est complet, ajoutez du cacao.
 
 [Retour à la page d'accueil](README.md)
-[Pasta al pesto](pesto.md)
+
+[Plat suivant: pasta al pesto](pesto.md)
