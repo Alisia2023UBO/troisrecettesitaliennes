@@ -1,5 +1,6 @@
 ### Pasta alla carbonara (pâtes carbonara)
-Le premier plat qui me vient à l'esprit est peut-être, l'un des plus connus de toute l'Italie. La _pasta alla carbonara_ ou pâtes carbonara sont typiques de la ville de Rome, la capitale de l'Italie. Il y a plusieurs hypothèses qui cherchent à trouver la vrai histoire, mais aucune n'a était confirmée. 
+Le premier plat qui me vient à l'esprit est peut-être, l'un des plus connus de toute l'Italie. La _pasta alla carbonara_ ou pâtes carbonara sont typiques de la ville de Rome, la capitale. Il y a plusieurs hypothèses qui cherchent à trouver la vrai histoire, mais aucune n'a était confirmée. 
+ATTENTION! Je vous fait un spoiler, ne lisez pas si vous n'êtes pas prêts à la savoir: **IL N'Y A PAS DE CRÈME DANS LA RECETTE!!!**
 
 ![alt text](https://github.com/Alisia2023UBO/troisrecettesitaliennes/blob/main/carbonara.png)
 
