@@ -12,7 +12,7 @@ Voilà la recette complète!
 
 #### Ingrédients
 - 70 gr de basilique génois 
-- 50 gr de parmesan
+- 50 gr de _parmesan_
 - 30 gr de pignons de pin
 - sel
 - 70 gr d'huile d'olive vierge extra
