@@ -1,5 +1,7 @@
 ### Tiramisù
 
+![alt text](https://github.com/Alisia2023UBO/troisrecettesitaliennes/blob/main/tiramisu-classico.jpg)
+
 Le deuxième plat que je vais vous présenter est le tiramisù, un dessert italien fait avec du café et de la crème fraîche. 
 Ce que j'adore particulièrement de ce plat est le nom: litteralement *tiramisu* en italien signifie _fais-moi remonter le moral_.
 Effectivement, il suffit de goûter un petit morceaux de ce dessert pour se sentir mieux et retrouver le bonheur!.
