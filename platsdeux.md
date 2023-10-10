@@ -13,7 +13,7 @@ La légende dit que, en préparant une glace, Roberto Linguanotto aurait laissé
 sucre-oeufs. Séduit par ce mélange, il l’aurait ensuite présenté à Alba, l’épouse d’Ado Campeol, qui aurait ensuite perfectionné la 
 recette avec son mari en y ajoutant des biscuits à la cuillère, du café et du cacao.
 
- Ingrédients       | (Poële de 20 x 30) 
+ Ingrédients       | (Poêle de 20 x 30) 
 -------------------|--------------------
 750 gr de mascarpon|  120 gr de sucre            
 300 gr de café     |  5 oeufs           
@@ -25,16 +25,12 @@ Cacao              |  250 gr de savoiardi
 3. Montez les jaunes d’œufs avec des fouets électriques, en versant seulement la moitié du sucre
 4. Dès que le mélange est devenu clair et mousseux, et avec les fouets encore en fonction, vous pouvez ajouter lentement le mascarpone
 5. Nettoyez très bien les fouets et passez à fouetter les blancs d’œufs. Quand ils seront mousseux, versez le reste du sucre
-6. 
-
-
-
-
-
-
-
-
-
-
+6. Prenez une cuillerée de blancs d’œufs et versez-la dans le bol avec la crème de mascarpone.
+7. Mélangez énergiquement avec une spatule
+8. Ensuite, ajoutez le reste des blancs d’œufs, en remuant doucement de bas en haut. La crème au mascarpon est prête
+9. Trempez les _savoiardi_ dans le café froid et créez une base de buiscuits dans la poêle
+10. Ajoutez après la crème au mascarpon et continuez avec les biscuits pour faire deux couches
+11. Quand le tiramisù est complet, ajoutez du cacao.
 
 [Retour à la page principale](README.md) 
+
