@@ -25,3 +25,6 @@ Voilà la recette complète!
 4. Lorsque la consistance est crémeuse et homogène, ajouter le parmesan et pilez de la même manière pour l'incorporer
 5. Quand tous les ingrédients ont été réduits en crème, versez l'huile et faites tourner le pilon encore quelques instants.
 6. Votre pesto est prêt à être utilisé !
+
+[Retour à la page d'accueil](README.md)
+
