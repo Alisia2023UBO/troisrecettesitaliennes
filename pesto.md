@@ -16,15 +16,15 @@ Voilà la recette complète!
 - 70 gr de basilique génois 
 - 50 gr de _parmesan_
 - 30 gr de pignons de pin
-- sel
+- Sel
 - 70 gr d'huile d'olive vierge extra
 
 #### Préparation
 1. Rincez brièvement les feuilles de basilic à l'eau froide, puis posez-les sur un torchon et faites sécher en les tapotant et en les
-   frottant délicatement
-2. Écrasez les pignons, et quand ils sont prêts, faites la même chose pour les feuilles de basilic et le sel
-3. Commencez toujours par des mouvements de percussion et poursuivez par des mouvements de rotation
-4. Lorsque la consistance est crémeuse et homogène, ajouter le parmesan et pilez de la même manière pour l'incorporer
+   frottant délicatement.
+2. Écrasez les pignons, et quand ils sont prêts, faites la même chose pour les feuilles de basilic et le sel.
+3. Commencez toujours par des mouvements de percussion et poursuivez par des mouvements de rotation.
+4. Lorsque la consistance est crémeuse et homogène, ajouter le parmesan et pilez de la même manière pour l'incorporer.
 5. Quand tous les ingrédients ont été réduits en crème, versez l'huile et faites tourner le pilon encore quelques instants.
 6. Votre pesto est prêt à être utilisé !
 
