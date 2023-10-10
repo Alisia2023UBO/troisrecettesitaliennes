@@ -23,8 +23,9 @@ Les pâtes carbonara sont typiques de la ville de Rome, la capitale de l'Italie.
 5. Faites cuire le guanciale dans une poêle sans ajouter de l'huile (il est déjà très gras)
 6. Prenez les jaunes des oeufs et mélangez-les avec le pecorino et du poivre noir
 7. Unissez les pâtes avec les jaunes d'oeufs et le guanciale
+8. Si nécessaire, vous pouvez ajouter de l'eau de cuisson pour rendre tout plus crémeux
 
-   [tiramisu](platsdeux.md) 
-9. Si nécessaire, vous pouvez ajouter de l'eau de cuisson pour rendre tout plus crémeux
+Le prochain plat typiquement italien que je vous propose est le [tiramisu](platsdeux.md).
+Visitez cette page pour en savoir plus! 
 
    
