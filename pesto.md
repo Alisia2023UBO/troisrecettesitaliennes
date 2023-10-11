@@ -1,6 +1,6 @@
 ### Pasta al pesto
 
-![alt text](https://github.com/Alisia2023UBO/troisrecettesitaliennes/blob/main/ricetta-tradizionale-ligure-pesto-fatto-in-casa-3.jpg)
+![alt text](ricetta-tradizionale-ligure-pesto-fatto-in-casa-3.jpg)
 
 Pâtes et pesto, l'un des plats de pâtes typiques de l'Italie et l'une des recettes d'été les plus savoureuses qui soient. Il faut bien
 l'avouer, le pesto genovese est toujours une fête, mais lorsqu'il est authentique, préparé avec les bons ingrédients et la technique
