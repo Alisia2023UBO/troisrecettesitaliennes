@@ -3,7 +3,7 @@ Le premier plat qui me vient à l'esprit est peut-être, l'un des plus connus de
 
 ATTENTION! Ne lisez pas si vous n'êtes pas prêts à le savoir: **IL N'Y A PAS DE CRÈME DANS LA RECETTE!!!**
 
-![alt text](https://github.com/Alisia2023UBO/troisrecettesitaliennes/blob/main/carbonara.png)
+![alt text](carbonara.png)
 
 #### Ingrédients
 - 100 gr de pâtes par personne (souvent des gros spaghettis)
